@@ -2,6 +2,7 @@
 check github support for mermaid js
 
 ```mermaid
+
 mindmap
   root((mindmap))
     Origins
