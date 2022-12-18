@@ -49,3 +49,11 @@ gantt
     another task      : 24d
 
 ```
+
+Flow:
+```mermaid
+flowchart LR
+    Start --> Init
+    Init --> Process
+    Process --> Done
+```
